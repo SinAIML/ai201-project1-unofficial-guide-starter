@@ -1,0 +1,206 @@
+Source: RateMyProfessors
+Doc ID: sriram-sankarnarayanan
+Retrieved: 2026-06-05
+
+Professor: Sriram Sankaranarayanan
+Department: Computer Science
+School: University of Colorado - Boulder
+Overall Rating: 4.6/5.0
+Difficulty: 3.0/5.0
+Would Take Again: 95.4545%
+Number of Ratings: 32
+RMP URL: https://www.ratemyprofessors.com/professor/1648665
+
+--- Reviews ---
+
+[2025-12-14 | CSCI3104] (Review ID: sriram-sankarnarayanan::r1)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['EXTRA CREDIT', 'Hilarious', 'Accessible outside class']
+Thumbs Up: 0, Thumbs Down: 0
+Definitely one of the best professors I've had in the CS department. I would highly recommend taking his class. He is good at explaining concepts clearly and has tons of extra credit opportunities. He even gave us candy during our final.
+
+[2025-12-12 | CSCI3155] (Review ID: sriram-sankarnarayanan::r2)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Caring', 'Respected', 'Accessible outside class']
+Thumbs Up: 0, Thumbs Down: 0
+Sriram is the best professor in the CS department and possibly the best professor at our school. I can't fit into 350 characters how amazing he is. He really cares about the topics he teaches and he can make you excited to learn the most boring of subjects (and make the subjects fun!). He is very inspirational and gives good advice during lectures.
+
+[2025-12-08 | CSCI3155] (Review ID: sriram-sankarnarayanan::r3)
+Quality: 5.0, Difficulty: 2.0
+Tags: ['Hilarious', 'Caring', 'Accessible outside class']
+Thumbs Up: 1, Thumbs Down: 0
+This has been the best experience of a class I've had in my four years at Boulder. He is so involved in his student's success, very responsive, and explains topics so well!
+
+[2025-12-05 | CSCI3155] (Review ID: sriram-sankarnarayanan::r4)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Amazing lectures', 'Respected', 'Test heavy']
+Thumbs Up: 3, Thumbs Down: 0
+Sriram is one of the best professors I've had in the CS department. He is passionate about his work and is considerate of his students, offering several chances for makeup exams, assignments, and quizzes. This course had five 25 minute in-class spot exams, 4 mini-projects, weekly quizzes and relatively short HWs. If nothing else, you learn Scala!
+
+[2025-06-26 | CSCI5454] (Review ID: sriram-sankarnarayanan::r5)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Amazing lectures', 'Inspirational', 'Respected']
+Thumbs Up: 3, Thumbs Down: 0
+This has been one of the best CS professors I've ever had
+
+[2023-10-09 | CSCI3155] (Review ID: sriram-sankarnarayanan::r6)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Amazing lectures', 'Clear grading criteria', 'Test heavy']
+Thumbs Up: 3, Thumbs Down: 0
+I wish I could have Sriram as a professor for every class. He is an amazing lecturer and he seems like he actually cares about his students. I haven't had a great experience with much of the CSCI department but I would highly recommend taking a course from him.
+
+[2023-04-27 | CSCI3155] (Review ID: sriram-sankarnarayanan::r7)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Amazing lectures', 'Hilarious', 'Caring']
+Thumbs Up: 1, Thumbs Down: 0
+One of the best professors I've had at CU, and by far the best computer science professor I've had. Lectures are always engaging, even if the material gets dense at points. Some assignments are a breeze while others will take a bit more time but it's always possible to get 100% on them. If he's an option, take his class! You won't regret it.
+
+[2022-08-11 | CSCI3104] (Review ID: sriram-sankarnarayanan::r8)
+Quality: 5.0, Difficulty: 3.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+Sriram is the best professor to teach Algorithms.  You can find lots of algorithm online lectures but I have to say this one is the most clear one.  He made all concepts and algorithm so easy to understand, and explained CLRS in an easy to understand way. I will take all courses taught by Sriram - he is the king of teaching.
+
+[2022-05-04 | CSCI3155] (Review ID: sriram-sankarnarayanan::r9)
+Quality: 5.0, Difficulty: 2.0
+Tags: ['Clear grading criteria', 'Respected', 'Accessible outside class']
+Thumbs Up: 0, Thumbs Down: 0
+King. Makes lecture content really accessible so you don't need to attend lecture, but you want to because he's funny and a nice guy. Understanding/lenient with grading too and rounded everyone's grades up. I also personally enjoyed the projects in the class which I did not think I would.
+
+[2021-12-11 | CSCI3202] (Review ID: sriram-sankarnarayanan::r10)
+Quality: 5.0, Difficulty: 4.0
+Tags: ["Skip class? You won't pass.", 'Amazing lectures', 'EXTRA CREDIT']
+Thumbs Up: 1, Thumbs Down: 0
+Professor Sankaranarayanan is possibly the best computer science professor I have had at CU. He's extremely engaged in student learning and really cares if students know the material well. His classes are a perfect balance of challenging, interesting, and realistic. His lectures are also always very clear and super engaging. Would recommend 10000%
+
+[2021-04-06 | CSCI3202] (Review ID: sriram-sankarnarayanan::r11)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Respected', 'Clear grading criteria', 'Hilarious']
+Thumbs Up: 2, Thumbs Down: 0
+Sririam is by far my favorite CS professor at CU. He is incredibly flexible with his students and always open to feedback. I took both PPL with him and Intro to AI with him and Prof. Heckman. His class structure is very fair, it is by no means an Easy class but its not impossible either. Everything is structured very fair and you'll learn a lot
+
+[2020-12-10 | CSCI3155] (Review ID: sriram-sankarnarayanan::r12)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Respected', 'Get ready to read', 'Amazing lectures']
+Thumbs Up: 0, Thumbs Down: 0
+Sriram is a great professor! He goes out of his way to help you understand the topic and I really appreciate him for that. He is always there to encourage students to learn and ask questions. He's great at explaining and his notes are very useful. He makes the class fun and just overall a great guy. I'm glad I was in his class!
+
+[2020-08-26 | CSCI3155] (Review ID: sriram-sankarnarayanan::r13)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Respected', 'Hilarious', 'Caring']
+Thumbs Up: 0, Thumbs Down: 0
+Great guy who really knows the material. He was incredibly caring and humble throughout the semester, and went above and beyond to help us out during the transition to online class due to COVID and for the rest of the semester. Always willing to help out if you need it, good lecturer, and a really well run class.
+
+[2020-05-24 | CSCI3155] (Review ID: sriram-sankarnarayanan::r14)
+Quality: 4.0, Difficulty: 4.0
+Tags: ['Respected', 'Get ready to read', 'Lecture heavy']
+Thumbs Up: 0, Thumbs Down: 0
+Sriram was a pretty good prof - His classes are lecture heavy and dense, and he flies through a lot of content, but he respects his students which is very rare in the CS dept. This class was was a lot and it was easy to fall behind, but he's a super understanding and nice prof who is always very helpful when you ask questions.
+
+[2020-05-13 | CSCI5654] (Review ID: sriram-sankarnarayanan::r15)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Respected', 'Get ready to read', 'Amazing lectures']
+Thumbs Up: 0, Thumbs Down: 0
+I took Sriram's course for my bin requirement and I have no regrets. He knows his subject very well and he is an amazing teacher. He can communicate difficult to understand concepts. I've also made 100+ page notes which I intend to refer back when I enter the industry.
+
+[2020-04-16 | CSCI3155] (Review ID: sriram-sankarnarayanan::r16)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Respected', 'Hilarious', 'Caring']
+Thumbs Up: 0, Thumbs Down: 0
+Sriram is one of the best comp sci professors I have ever had. He knows the subject incredibly well and is tremendously humble. He's very understanding, empathetic and an approachable person. Plus, I think he's hilarious! :) he always tries to make lecture fun and light. If you aren't sure about taking one of his classes, take it from me, do it.
+
+[2019-03-21 | CSCI3155] (Review ID: sriram-sankarnarayanan::r17)
+Quality: 5.0, Difficulty: 2.0
+Tags: ['Inspirational', 'Hilarious', 'Amazing lectures']
+Thumbs Up: 1, Thumbs Down: 0
+Srirarm took NLP one of the hardest CSCI courses at CU and turned it into something applicable and that students can understand. He changes what is a very technical subject, lambda calculus, and teaches you in an understandable, insightful, and applicable way.
+
+[2019-03-21 | CSCI3155] (Review ID: sriram-sankarnarayanan::r18)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Hilarious', 'Amazing lectures', 'Caring']
+Thumbs Up: 1, Thumbs Down: 0
+Makes a very hard subject understandable. Also, he has a great sense of humor and cares about his students. 10/10 would take again.
+
+[2018-12-17 | CSCI3155] (Review ID: sriram-sankarnarayanan::r19)
+Quality: 5.0, Difficulty: 4.0
+Tags: ['Respected', 'Inspirational', 'Amazing lectures']
+Thumbs Up: 1, Thumbs Down: 0
+Sriram is the best professor I have had at CU Boulder. He is an excellent lecturer and is very engaging. I would recommend taking any class that he teaches.
+
+[2018-11-01 | CSCI5454] (Review ID: sriram-sankarnarayanan::r20)
+Quality: 1.0, Difficulty: 5.0
+Tags: ['Tough Grader', "Skip class? You won't pass.", 'LOTS OF HOMEWORK']
+Thumbs Up: 2, Thumbs Down: 15
+Gives too many assignments. He thinks as if student's whole and sole work is to work out his assignments. You won't be able to read for any other course. Take his course and forget social life for a semester. Take this course only if you have research interest in algorithms. Else leave this course and thank me later.
+
+[2018-09-16 | CSCI5654] (Review ID: sriram-sankarnarayanan::r21)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Respected']
+Thumbs Up: 1, Thumbs Down: 0
+Absolutely brilliant professor
+
+[2016-09-13 | CSCI3104] (Review ID: sriram-sankarnarayanan::r22)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Clear grading criteria', 'Amazing lectures', 'Caring']
+Thumbs Up: 1, Thumbs Down: 0
+He's by far the best computer science professor I have had at CU. His lectures are so clear and very easy to follow. He tends to make CS fun and not boring.
+
+[2016-05-01 | CSCI3104] (Review ID: sriram-sankarnarayanan::r23)
+Quality: 4.0, Difficulty: 3.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 4
+The class is pretty dry overall. Recitations were really helpful.
+
+[2016-01-08 | CSCI5654] (Review ID: sriram-sankarnarayanan::r24)
+Quality: 5.0, Difficulty: 4.0
+Tags: []
+Thumbs Up: 2, Thumbs Down: 0
+Great class and entertaining lectures!
+
+[2015-06-02 | 3104] (Review ID: sriram-sankarnarayanan::r25)
+Quality: 5.0, Difficulty: 3.0
+Tags: []
+Thumbs Up: 7, Thumbs Down: 0
+What a refreshing energy this professor has ! His lectures are very clear and he frames the subject with a simple coherent train of thought. He also has a way of making CS sound interesting instead of scary.
+
+[2015-05-06 | CSCI3104] (Review ID: sriram-sankarnarayanan::r26)
+Quality: 5.0, Difficulty: 3.0
+Tags: []
+Thumbs Up: 5, Thumbs Down: 0
+I love Sriram! Best computer science professor at the school -- he's very clear in his lectures and values student's learning over a grade. You only have quizzes and a final along with a bunch of homeworks and some coding. Loved this class and would take any class he teaches.
+
+[2014-11-19 | CSCI2270] (Review ID: sriram-sankarnarayanan::r27)
+Quality: 5.0, Difficulty: 3.0
+Tags: []
+Thumbs Up: 3, Thumbs Down: 1
+Sriram is a great teacher. Very passionate, gives great lectures, and isn't too tough of a grader.
+
+[2013-09-28 | LINEARPRGMNG] (Review ID: sriram-sankarnarayanan::r28)
+Quality: 5.0, Difficulty: 1.0
+Tags: []
+Thumbs Up: 6, Thumbs Down: 0
+I found him through coursera course. His lectures are crystal clear and I do not have to watch its second time. It goes straight into my brain. I found this quality with rarest of rarest professors. He is very young and he has a bright future in teaching. Thousands are students are going to benefit from him
+
+[2012-03-19 | CSCI5654] (Review ID: sriram-sankarnarayanan::r29)
+Quality: 5.0, Difficulty: 3.0
+Tags: []
+Thumbs Up: 2, Thumbs Down: 1
+Dr. Sankaranarayanan is one of the best teachers in the department! I learnt a lot from his class.
+
+[2012-01-13 | CSCI2824] (Review ID: sriram-sankarnarayanan::r30)
+Quality: 5.0, Difficulty: 1.0
+Tags: []
+Thumbs Up: 4, Thumbs Down: 0
+Guy is awesome. Actually cares about helping students learn. Go to office hours, he'll help with homework a lot.
+
+[2011-11-25 | CSCI5654] (Review ID: sriram-sankarnarayanan::r31)
+Quality: 4.0, Difficulty: 3.0
+Tags: []
+Thumbs Up: 5, Thumbs Down: 3
+Young, enthusiastic, and energetic. I found Sriram to be very helpful during office hours, and the problem sets he assigns are actually fun and interesting. I hope I get to have him again during my time at CU. His last name is ridic.
+
+[2011-11-18 | CSCI5654] (Review ID: sriram-sankarnarayanan::r32)
+Quality: 1.0, Difficulty: 4.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 16
+In general, the professor is unorganized and confusing. He lacks communication skills. Be prepared to find many errors in his lectures and in his notes.

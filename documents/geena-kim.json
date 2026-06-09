@@ -1,0 +1,113 @@
+{
+  "doc_id": "geena-kim",
+  "source": "RateMyProfessors",
+  "retrieved_at": "2026-06-05",
+  "professor": {
+    "queried_name": "Geena Kim",
+    "name": "Geena Kim",
+    "rmp_id": "2509139",
+    "department": "Computer Science",
+    "school": "University of Colorado - Boulder",
+    "overall_rating": 1.0,
+    "num_ratings": 8,
+    "percent_take_again": 0.0,
+    "level_of_difficulty": 3.8,
+    "rmp_url": "https://www.ratemyprofessors.com/professor/2509139"
+  },
+  "num_reviews": 8,
+  "text": "Professor Geena Kim teaches in the Computer Science department at University of Colorado - Boulder. Overall rating 1.0/5 from 8 ratings; average difficulty 3.8/5; 0.0% would take again.\n\nReview 1 [DTSA5509] (quality=1.0, difficulty=5.0): Painful, Nothing but Kaggle competitions that are 5+ years old and no longer work. This instructor really sucks.\n\nReview 2 [DTSA5509] (quality=1.0, difficulty=5.0): This is an awful course. Extremely hard. Not for beginners. Stay away from it !!!\n\nReview 3 [DTSA5509] (quality=1.0, difficulty=4.0): Dr. Kim's lectures are too short and only cover topics at a high level of understanding. At no point, did I feel that I understood the topic better after watching a lecture. It's unfortunate that she is teaching an important and complex topic like Machine Learning.\n\nReview 4 [DTSA5509] (quality=1.0, difficulty=1.0): Her introduction to machine learning course is one of the worst classes that I have ever taken. The lectures are rushed and the topics are not discussed in detail. If you take her class, be prepared to spend hours reading outside resources and viewing online tutorials.\n\nReview 5 [DTSA5509] (quality=1.0, difficulty=4.0): The lecture was poorly teach, it didn't dive deep into the topic, the video basically useless.\n\nReview 6 [DTSA5509] (quality=1.0, difficulty=4.0): This course is poorly taught and doesn't really explain the concepts clearly. It took a lot of extra work to find material online to help me understand the course material.\n\nReview 7 [DTSA5509] (quality=1.0, difficulty=4.0): The professor doesn't really explain anything about the topic but rather reiterates what's already written in the textbook and further complicates things by mentioning things that aren't quite relevant to the core ideas. If you already know what's being taught maybe you'll have an okay time but then why would you take the course if that's the case.\n\nReview 8 [CSCI1300] (quality=1.0, difficulty=3.0): I took this course online. The prof was awful. Homework wasn't graded for weeks (Week 4 homework wasn't graded until week 10). She kept telling us to be patient, that excuse wouldn't have worked for me. She basically let the class run without much interaction with students (discussion board) and practically no teaching (two helpful posts).",
+  "reviews": [
+    {
+      "review_id": "geena-kim::r1",
+      "date": "2025-11-24",
+      "course": "DTSA5509",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Lots of homework"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Painful, Nothing but Kaggle competitions that are 5+ years old and no longer work. This instructor really sucks."
+    },
+    {
+      "review_id": "geena-kim::r2",
+      "date": "2025-01-18",
+      "course": "DTSA5509",
+      "quality": 1.0,
+      "difficulty": 5.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "This is an awful course. Extremely hard. Not for beginners. Stay away from it !!!"
+    },
+    {
+      "review_id": "geena-kim::r3",
+      "date": "2024-01-25",
+      "course": "DTSA5509",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Dr. Kim's lectures are too short and only cover topics at a high level of understanding. At no point, did I feel that I understood the topic better after watching a lecture. It's unfortunate that she is teaching an important and complex topic like Machine Learning."
+    },
+    {
+      "review_id": "geena-kim::r4",
+      "date": "2023-11-05",
+      "course": "DTSA5509",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Her introduction to machine learning course is one of the worst classes that I have ever taken. The lectures are rushed and the topics are not discussed in detail. If you take her class, be prepared to spend hours reading outside resources and viewing online tutorials."
+    },
+    {
+      "review_id": "geena-kim::r5",
+      "date": "2022-10-04",
+      "course": "DTSA5509",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Lots of homework"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "The lecture was poorly teach, it didn't dive deep into the topic, the video basically useless."
+    },
+    {
+      "review_id": "geena-kim::r6",
+      "date": "2022-09-11",
+      "course": "DTSA5509",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "This course is poorly taught and doesn't really explain the concepts clearly. It took a lot of extra work to find material online to help me understand the course material."
+    },
+    {
+      "review_id": "geena-kim::r7",
+      "date": "2022-01-21",
+      "course": "DTSA5509",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "comment": "The professor doesn't really explain anything about the topic but rather reiterates what's already written in the textbook and further complicates things by mentioning things that aren't quite relevant to the core ideas. If you already know what's being taught maybe you'll have an okay time but then why would you take the course if that's the case."
+    },
+    {
+      "review_id": "geena-kim::r8",
+      "date": "2019-09-11",
+      "course": "CSCI1300",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "comment": "I took this course online. The prof was awful. Homework wasn't graded for weeks (Week 4 homework wasn't graded until week 10). She kept telling us to be patient, that excuse wouldn't have worked for me. She basically let the class run without much interaction with students (discussion board) and practically no teaching (two helpful posts)."
+    }
+  ]
+}

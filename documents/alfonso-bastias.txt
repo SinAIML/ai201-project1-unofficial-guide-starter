@@ -1,0 +1,32 @@
+Source: RateMyProfessors
+Doc ID: alfonso-bastias
+Retrieved: 2026-06-05
+
+Professor: Alfonso Bastias
+Department: Computer Science
+School: University of Colorado - Boulder
+Overall Rating: 1.0/5.0
+Difficulty: 3.7/5.0
+Would Take Again: 0.0%
+Number of Ratings: 3
+RMP URL: https://www.ratemyprofessors.com/professor/3126234
+
+--- Reviews ---
+
+[2025-12-18 | DTSC5501-801] (Review ID: alfonso-bastias::r1)
+Quality: 1.0, Difficulty: 5.0
+Tags: ['Tough grader', 'Beware of pop quizzes', 'Test heavy']
+Thumbs Up: 0, Thumbs Down: 0
+The content was confusing and often off-topic. Lectures covered very basic ideas but frequently drifted into unrelated discussions. Assignment difficulty didn't match what was taught. Expectations weren't clear, materials weren't uploaded, and doubt-clearing was limited, making the subject hard to follow.
+
+[2025-12-17 | DTSC5501-801] (Review ID: alfonso-bastias::r2)
+Quality: 1.0, Difficulty: 1.0
+Tags: ['Tough grader', 'Lots of homework', 'Test heavy']
+Thumbs Up: 0, Thumbs Down: 0
+Grading and enforcement felt inconsistent and unclear. Rules didn't always seem to apply equally, and some decisions changed without explanation. Communication was limited, which made the course stressful. Keep records and don't assume policies will be enforced consistently.
+
+[2025-11-21 | DTSC5501-801] (Review ID: alfonso-bastias::r3)
+Quality: 1.0, Difficulty: 5.0
+Tags: ['Tough grader', 'Group projects', 'Beware of pop quizzes']
+Thumbs Up: 0, Thumbs Down: 0
+The course lacked predictability, with slides withheld until after class, unclear schedules, and misaligned content. Assignments demanded skills not taught, leaving beginners behind despite heavy effort. Surprise in&#8209;class activities added stress. Overall, poor structure and mismatched expectations created a frustrating learning experience.

@@ -1,0 +1,13 @@
+Source: CU Boulder MS-DS Curriculum — Statistics
+Doc ID: curriculum_statistics
+URL: https://www.colorado.edu/program/data-science/campus/curriculum/statistics
+Retrieved: 2026-06-05
+
+--- Content ---
+
+Core Curriculum: Statistics
+
+STAT 5000: Statistical Methods & Applications I
+Introduces exploratory data analysis, probability theory, statistical inference, and data modeling. Topics include discrete and continuous probability distributions, expectation, laws of large numbers, central limit theorem, statistical parameter estimation, hypothesis testing, and regression analysis. Considerable emphasis on applications in the R programming language.
+STAT 5010: Statistical Methods & Applications II
+Expands upon statistical techniques introduced in STAT 4000. Topics include modern regression analysis, analysis of variance (ANOVA), experimental design, nonparametric methods, and an introduction to Bayesian data analysis. Considerable emphasis on application in the R programming language.

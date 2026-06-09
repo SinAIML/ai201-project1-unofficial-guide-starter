@@ -2,10 +2,18 @@ sentence-transformers==3.4.1
 chromadb>=0.6.0
 groq==0.15.0
 python-dotenv==1.0.1
+# Pinned: safetensors>=0.4.4 references torch.uint64, which only exists in
+# torch>=2.3. This keeps it compatible with the pinned torch 2.1 stack.
+safetensors==0.4.3
+ratemyprofessors-client
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+langchain-text-splitters>=0.3.0
+
 
 # Query interface — add whichever you use for Milestone 5:
 # gradio>=6.9.0
-# streamlit>=1.40.0
+streamlit>=1.40.0
 
 # Document ingestion — add if your documents/ folder contains .pdf files:
 # pdfplumber==0.11.4

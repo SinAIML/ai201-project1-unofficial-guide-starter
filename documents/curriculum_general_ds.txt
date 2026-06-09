@@ -1,0 +1,15 @@
+Source: CU Boulder MS-DS Curriculum — General Data Science
+Doc ID: curriculum_general_ds
+URL: https://www.colorado.edu/program/data-science/campus/curriculum/general-data-science
+Retrieved: 2026-06-05
+
+--- Content ---
+
+Core Curriculum: Data Science
+
+DTSC 5301: Data Science as a Field
+This course provides a general introduction to the field of Data Science. It has been designed for aspiring data scientists, content experts who work with data scientists, or anyone interested in learning about what Data Science is and what it’s used for. Weekly topics include the past, present, and future of the field; examination of the process and pitfalls of data science; the academic disciplines that both practice and make use of Data Science; collaboration between data scientists and content experts; and the practice of Data Science in the professional world. This course is part of CU Boulder’s Master’s of Science in Data Science and was collaboratively designed by both academics and industry professionals to provide learners with an insider’s perspective on this exciting, evolving, and increasingly vital discipline.
+DTSC 5302: Ethical Issues in Data Science
+This course examines ethical issues related to data science, with the objective of making data science professionals aware of and sensitive to ethical considerations that may arise in their careers. It focuses on ethical frameworks, data science applications that lead to ethical considerations, professional ethics, current media and scholarly articles, and the perspectives and experiences of fellow students and computing professionals.
+DTSC 5303: Cybersecurity for Data Science
+This course aims to help anyone interested in data science understand the cybersecurity risks and the tools/techniques that can be used to mitigate those risks. We will cover the distinctions between confidentiality, integrity, and availability, introduce learners to relevant cybersecurity tools and techniques including cryptographic tools, software resources, and policies that will be essential to data science. We will explore key tools and techniques for authentication and access control so producers, curators, and users of data can help ensure the security and privacy of the data.

@@ -1,0 +1,93 @@
+{
+  "doc_id": "christopher-vargo",
+  "source": "RateMyProfessors",
+  "retrieved_at": "2026-06-05",
+  "professor": {
+    "queried_name": "Christopher Vargo",
+    "name": "Christopher Vargo",
+    "rmp_id": "2449820",
+    "department": "Business",
+    "school": "University of Colorado - Boulder",
+    "overall_rating": 1.8,
+    "num_ratings": 5,
+    "percent_take_again": 20.0,
+    "level_of_difficulty": 2.4,
+    "rmp_url": "https://www.ratemyprofessors.com/professor/2449820"
+  },
+  "num_reviews": 5,
+  "text": "Professor Christopher Vargo teaches in the Business department at University of Colorado - Boulder. Overall rating 1.8/5 from 5 ratings; average difficulty 2.4/5; 20.0% would take again.\n\nReview 1 [APRD6343] (quality=5.0, difficulty=2.0): I would take any class with Vargo\n\nReview 2 [APRD4301] (quality=1.0, difficulty=4.0): so confusing and horrible. actually so much homework. projects that would take 5 hours worth 1 point, had to buy a $100 certificate for 5 points, why is that worth more points? no clear grading and not flexible at all. attendance wasn't mandatory but wasn't understanding to students who didn't miss one class. most frustrating class i've taken.\n\nReview 3 [APRD6342] (quality=1.0, difficulty=1.0): I do not like this professor. He has been very strict to the students in the class. Teaches us something else and his homeworks are way harder.\n\nReview 4 [APRD6342] (quality=1.0, difficulty=3.0): Professor Vargo refuses to accept his shortcomings as a teacher and instead places blame on his students. In his first class he made a joke about coming up on tenure and not caring. Later in class when he realized that a previous teacher changed his syllabus and we had not been taught what he thought we had, he once again blamed us. Awful teacher.\n\nReview 5 [APRD6343] (quality=1.0, difficulty=2.0): Horrible teacher",
+  "reviews": [
+    {
+      "review_id": "christopher-vargo::r1",
+      "date": "2025-10-24",
+      "course": "APRD6343",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Amazing lectures",
+        "Gives good feedback",
+        "Accessible outside class"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "I would take any class with Vargo"
+    },
+    {
+      "review_id": "christopher-vargo::r2",
+      "date": "2024-12-21",
+      "course": "APRD4301",
+      "quality": 1.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Tough grader",
+        "Group projects",
+        "So many papers"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "so confusing and horrible. actually so much homework. projects that would take 5 hours worth 1 point, had to buy a $100 certificate for 5 points, why is that worth more points? no clear grading and not flexible at all. attendance wasn't mandatory but wasn't understanding to students who didn't miss one class. most frustrating class i've taken."
+    },
+    {
+      "review_id": "christopher-vargo::r3",
+      "date": "2020-10-05",
+      "course": "APRD6342",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Test heavy",
+        "So many papers",
+        "Tough grader"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "I do not like this professor. He has been very strict to the students in the class. Teaches us something else and his homeworks are way harder."
+    },
+    {
+      "review_id": "christopher-vargo::r4",
+      "date": "2020-09-23",
+      "course": "APRD6342",
+      "quality": 1.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Lecture heavy"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Professor Vargo refuses to accept his shortcomings as a teacher and instead places blame on his students. In his first class he made a joke about coming up on tenure and not caring. Later in class when he realized that a previous teacher changed his syllabus and we had not been taught what he thought we had, he once again blamed us. Awful teacher."
+    },
+    {
+      "review_id": "christopher-vargo::r5",
+      "date": "2019-04-22",
+      "course": "APRD6343",
+      "quality": 1.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Lots of homework",
+        "Skip class? You won't pass."
+      ],
+      "thumbs_up": 3,
+      "thumbs_down": 0,
+      "comment": "Horrible teacher"
+    }
+  ]
+}

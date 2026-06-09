@@ -1,0 +1,154 @@
+Source: RateMyProfessors
+Doc ID: alan-paradise
+Retrieved: 2026-06-05
+
+Professor: Alan Paradise
+Department: Computer Science
+School: University of Colorado - Boulder
+Overall Rating: 3.5/5.0
+Difficulty: 2.1/5.0
+Would Take Again: 60.8696%
+Number of Ratings: 23
+RMP URL: https://www.ratemyprofessors.com/professor/2482275
+
+--- Reviews ---
+
+[2025-12-22 | CSCI4308] (Review ID: alan-paradise::r1)
+Quality: 1.0, Difficulty: 1.0
+Tags: ['Participation matters', 'Group projects', 'Graded by few things']
+Thumbs Up: 1, Thumbs Down: 0
+Utter waste of time and effort. Odds you get a project worth your time is about 10%, so you're better off taking the other capstone course offerings. Not to mention alan is as business major as they come. So if you want to actually learn from a guy whos been in industry, look elsewhere. Save yourself and take entrepreneurial or just write a thesis.
+
+[2025-11-18 | CSCI4308] (Review ID: alan-paradise::r2)
+Quality: 1.0, Difficulty: 3.0
+Tags: ['Participation matters', 'Amazing lectures', 'Lots of homework']
+Thumbs Up: 1, Thumbs Down: 0
+Lectures are long, boring, and irrelevant to the industry as it stands today.
+
+[2025-09-30 | CSCI4308] (Review ID: alan-paradise::r3)
+Quality: 2.0, Difficulty: 1.0
+Tags: []
+Thumbs Up: 2, Thumbs Down: 0
+5 star person, 0 star professor. Rambles repetitively, wasting time. TAs tell you to do the opposite of what the professor says to do to be successful. 
+
+3287 is a waste of money and stretches a week of sql into 15 weeks - do cmu 15-445 with youtube lectures. Avoid 4308 capstone unless you want to be a web developer
+
+[2025-05-27 | CSCI3287] (Review ID: alan-paradise::r4)
+Quality: 5.0, Difficulty: 1.0
+Tags: ['Inspirational', 'Caring']
+Thumbs Up: 0, Thumbs Down: 0
+Alan is very passionate about the subject, which helps during the boring parts of the class. Overall a nice guy who really likes to teach this class.
+
+[2025-04-29 | CSCI3287] (Review ID: alan-paradise::r5)
+Quality: 5.0, Difficulty: 1.0
+Tags: ['Group projects', 'Clear grading criteria', 'Hilarious']
+Thumbs Up: 0, Thumbs Down: 0
+Pretty chill dude. The class was very interesting and very easy. I'd highly recommend taking this class to get an easy A. There are only 2 exams and the whole class is online. Lectures are recorded so you don't have to come to class.
+
+[2024-12-18 | CSCI3287] (Review ID: alan-paradise::r6)
+Quality: 1.0, Difficulty: 3.0
+Tags: ['Tough grader', 'Lots of homework']
+Thumbs Up: 1, Thumbs Down: 0
+Horribly behind on everything, extremely vague with assignment directions, to then take off many points for not following said vague instructions. No warnings or announcements about exams or finals.
+
+[2024-12-16 | CSCI3287] (Review ID: alan-paradise::r7)
+Quality: 5.0, Difficulty: 2.0
+Tags: ['Caring', 'Respected', 'Lecture heavy']
+Thumbs Up: 0, Thumbs Down: 0
+Alan Paradise is a delightful person. He's thorough in lecture and cares about students finding value in the class. I would gladly take another class with him.
+
+[2024-11-26 | CSCI3287] (Review ID: alan-paradise::r8)
+Quality: 5.0, Difficulty: 2.0
+Tags: []
+Thumbs Up: 1, Thumbs Down: 0
+He is incredibly supportive and accommodating, both in class and outside of it. As a software developer now, I find his classes highly practical and relevant to my work. Alan's classes reward effort&#8212;you get out what you put in. The projects I built in his class were among the strongest examples I shared with employers, showcasing real-world skills.
+
+[2024-09-13 | CSCI4308] (Review ID: alan-paradise::r9)
+Quality: 1.0, Difficulty: 3.0
+Tags: []
+Thumbs Up: 1, Thumbs Down: 0
+Alan Paradise decided to use a student made algorithm to sort students into senior projects, which resulted in myself and others being put in projects we didn't even sign up for, despite being told we were guaranteed to be put in one of five projects we asked for unless we asked for special requests. He blamed human error for this.
+
+[2024-07-27 | CSCI4308] (Review ID: alan-paradise::r10)
+Quality: 1.0, Difficulty: 1.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+He was barely accessible for students belittles most of them and ignores concerns that students and staff bring to him. He may have been nicer in the past but currently he has no care for his students
+
+[2024-05-04 | CSCI3287] (Review ID: alan-paradise::r11)
+Quality: 1.0, Difficulty: 2.0
+Tags: []
+Thumbs Up: 2, Thumbs Down: 0
+Took database with him bc of all his positive reviews but DONT take a class with this man. Nice person but terribly unorganized. Homework instructions all VERY outdated, and his lectures are the most useless thing ever. For the midterm review, he went over the honor code for more than half of the class and literally did not review a single thing.
+
+[2023-05-13 | CSCI4308] (Review ID: alan-paradise::r12)
+Quality: 2.0, Difficulty: 1.0
+Tags: []
+Thumbs Up: 7, Thumbs Down: 0
+Paradise is a great person, but not a great teacher. Both capstone and database systems are an easy A with Paradise, but a waste of time. Lectures are repetitive and not focused on the curriculum. Lecture gets canceled about 50% of the time. He disregards peer evaluations for projects, and never has grades finalized before the university deadline.
+
+[2023-05-03 | CSCI3287] (Review ID: alan-paradise::r13)
+Quality: 5.0, Difficulty: 2.0
+Tags: []
+Thumbs Up: 2, Thumbs Down: 2
+Great professor. lectures are online and recorded so you can watch anytime. Super helpful if you go to his office hours. He actually cares about his students
+
+[2023-01-31 | CSCI4308] (Review ID: alan-paradise::r14)
+Quality: 5.0, Difficulty: 2.0
+Tags: ['Amazing lectures', 'Inspirational', 'Respected']
+Thumbs Up: 0, Thumbs Down: 2
+Professor Paradise is an extremely caring and thoughtful professor. While his lectures can sometimes be long, he offers excellent career advice and useful life and "soft" skills advice. He has helped many students with difficult situations and is extremely well-respected in the department. Take any and all classes with him.
+
+[2022-05-05 | CSCI3287] (Review ID: alan-paradise::r15)
+Quality: 5.0, Difficulty: 2.0
+Tags: []
+Thumbs Up: 1, Thumbs Down: 0
+Very easy class, and Alan Paradise is a great professor and is always happy to teach and explain. Homeworks are mostly easy.
+
+[2022-04-26 | CSCI3287] (Review ID: alan-paradise::r16)
+Quality: 5.0, Difficulty: 1.0
+Tags: ['Amazing lectures', 'Inspirational', 'Caring']
+Thumbs Up: 1, Thumbs Down: 0
+Professor Alan Paradise was one of the best professors that I had the honor to meet. He absolutely loves his job and his students and it shows. The material of the course was not too difficult and was actually really useful. If you ever get the chance to take his course before he retires I would highly suggest you do so!
+
+[2022-04-21 | CSCI3287] (Review ID: alan-paradise::r17)
+Quality: 5.0, Difficulty: 5.0
+Tags: ['Amazing lectures', 'Accessible outside class']
+Thumbs Up: 1, Thumbs Down: 0
+Overall he is very knowledgeable about databases and has had a ton of experience in industry. His assignments are very interesting and not too difficult. I would definitely want to take another one of his classes.
+
+[2021-12-06 | CSCI3287] (Review ID: alan-paradise::r18)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Respected', 'Amazing lectures', 'Caring']
+Thumbs Up: 1, Thumbs Down: 0
+Professor Paradise is one of the best professors I have had at CU thus far. I love how he aims to teach us concepts and tools that are applicable to what we may need to know in industry. A couple of the database design and database modeling assignments are challenging, but they are very doable.
+
+[2021-11-10 | CSCI3287] (Review ID: alan-paradise::r19)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Respected', 'Graded by few things', 'Caring']
+Thumbs Up: 1, Thumbs Down: 0
+He's one of the best computer science professors you'll meet at CU. One of the most caring and dedicated professors by far. He has tons of experience and while teaching us about database, he also gives us lots of advice for our careers in the future. Cares a lot about his students and is very understanding with circumstances.
+
+[2021-03-11 | CSCI3287] (Review ID: alan-paradise::r20)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Gives good feedback', 'Accessible outside class', 'Caring']
+Thumbs Up: 1, Thumbs Down: 0
+Professor Paradise was a delight to learn databases from. He's an ex-industry professional who wants his students to learn well because he feels these skills will be useful to them. A really good guy, entertaining and interesting professor all around. I felt the workload was a 2, not 3, but I went in with database experience, so bumped it up one.
+
+[2019-12-03 | CSCI4308] (Review ID: alan-paradise::r21)
+Quality: 2.0, Difficulty: 1.0
+Tags: ['Caring']
+Thumbs Up: 3, Thumbs Down: 1
+I've had three classes with Alan, CSCI 3308, CSCI 3287, CSCI 4308. All of his classes are ridiculously easy. While he is knowledgeable about databases, he wastes 25-50% of lecture on stuff unrelated to computer science, depending on the class. He is caring, especially in office hours, but if you want to learn a lot look elsewhere.
+
+[2019-11-06 | CSCI3287] (Review ID: alan-paradise::r22)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Accessible outside class', 'Inspirational', 'Caring']
+Thumbs Up: 2, Thumbs Down: 0
+Paradise is the absolute best. Won't meet another professor who has as much experience in industry, and is so enthusiastic to share his knowledge with students. He's not teaching because of the pay or research, he genuinely enjoys helping students learn skills that are practical after graduation. Whatever class he teaches, it'll be worth it
+
+[2019-04-22 | CSCI3308] (Review ID: alan-paradise::r23)
+Quality: 4.0, Difficulty: 3.0
+Tags: ['Accessible outside class', 'Group projects']
+Thumbs Up: 1, Thumbs Down: 1
+Lectures will drag on a little bit and he'll remind you often about working in industry; however he's very knowledgeable with database related topics (which you'll use a lot in this class) and is a very fun person to get insight about potential jobs/internships in the future.

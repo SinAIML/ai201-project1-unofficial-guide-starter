@@ -1,0 +1,22 @@
+Source: CU Boulder MS-DS Curriculum — Bridge Courses
+Doc ID: curriculum_bridge_courses
+URL: https://www.colorado.edu/program/data-science/campus/curriculum/Bridge-Courses
+Retrieved: 2026-06-05
+
+--- Content ---
+
+Bridge Courses
+Bridge Courses
+Students in the
+Bridge to Data Science Pathway
+may be required to complete one or more of the following courses (up to 7 credits).
+Courses should be taken in the first year and are subject to Graduate School grade and cumulative GPA standards. Up to 3 credit hours of bridge courses which meet applicable standards can count toward the degree in the electives category. Click each topic area to learn more about specific courses.
+DTSC 5003: Programming for Data Science - Python for Data Science
+Credit Hours: 1
+This introductory course will provide Python fundamentals, including data structures and data analysis, complete hands-on exercises throughout the course modules, and create a final project to demonstrate your new skills. This course will demonstrate and practice how to create basic programs, working with data, and solving real-world problems in Python. This course is part of CU Boulder’s Master’s of Science in Data Science and was collaboratively designed by both academics and industry professionals to provide learners with an insider’s perspective on this exciting, evolving, and increasingly vital discipline.
+INFO 5651: Fundamental Concepts in Data Science
+Credit Hours: 3
+This intensive course provides a general understanding of the mathematical concepts required for success in data science. This course will cover a wide range of mathematical tools in data science including an overview of calculus and linear algebra along with selected topics from numerical analysis. The course will also explore computational implementations of these ideas. This course provides a bridge for students without these advanced math concepts to learn to apply them within a data science career or within a graduate program in data science.
+INFO 5652: Statistical Programming in R
+Credit Hours: 3
+This intensive course covers foundational data science tools and techniques in the R programming language, including acquiring, cleaning, exploring, and analyzing data, programming, and conducting reproducible research. The course will emphasize the use of data management best practices such as the tidyverse toolkit in R.

@@ -1,0 +1,21 @@
+Source: CU Boulder MS-DS Curriculum — Other Core Courses
+Doc ID: curriculum_other_core
+URL: https://www.colorado.edu/program/data-science/campus/curriculum/other-core-courses
+Retrieved: 2026-06-05
+
+--- Content ---
+
+Core Curriculum: Interdisciplinary
+
+ATLS 5214: Big Data Architecture
+Provides students with a comprehensive survey of technologies used today in the collection, storage, processing, analytics and display of big data. Focuses on cultivating real world skills with students working on semester long projects to execute on a group project.
+CSCI 5253: Datacenter Scale Computing - Methods, Systems & Techniques
+Covers the primary problem-solving strategies, methods, and tools needed for data-intensive programs using large collections of computers typically called "warehouse-scale" or "data-center scale" computers. Examines methods and algorithms for processing data-intensive applications, methods for deploying and managing large collections of computers in an on-demand infrastructure, and issues of large-scale computer system design.
+CSCI 5454: Design and Analysis of Algorithms
+Techniques for algorithm design, analysis of correctness and efficiency; divide and conquer, dynamic programming, probabilistic methods, advanced data structures, graph algorithms, etc. Lower bounds, NP-completeness, intractability.
+DTSC 5501: Data Structures and Algorithms
+This course provides students with a fundamental introduction to data structures and the design and analysis of algorithms. It covers a range of data structures such as priority queues, hash functions, and trees alongside algorithmic design techniques such as divide and conquer, dynamic programming, and greedy algorithms. The course demonstrates applications of these concepts in a number of contexts such as the sorting of arrays, and the use of hash-tables for approximate counting. Some advanced topics, such as the data structures and algorithms used to represent and analyze spatial data, are also covered. The course ends with a brief introduction to intractability (NP-completeness) and using linear/integer programming solvers for solving optimization problems. This course cannot be applied for credit towards a graduate degree in Computer Science.
+INFO 5602: Information Visualization
+Explores the design, development, and evaluation of information visualizations. Covers visual representations of data and provides hands-on experience with using and building exploratory tools and data narratives. Students create visualizations for a variety of domains and applications, working with stakeholders and their data. Covers interactive systems, user-centered and graphic design, perception, data storytelling and analysis, and insight generation. Programming knowledge is strongly encouraged.
+STAT 5600: Intro to Statistical Learning
+Introduction to statistical concepts, models, and algorithms of machine learning. Reviews supervised learning for regression, and introduces classification methods, discriminant analysis, resampling methods, classification and regression trees, random forests and associated tuning, diagnostics, and performance evaluation; also covers unsupervised learning for clustering and principal components analysis. Course uses R as the primary programming language.

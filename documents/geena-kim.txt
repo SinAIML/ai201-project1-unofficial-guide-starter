@@ -1,0 +1,62 @@
+Source: RateMyProfessors
+Doc ID: geena-kim
+Retrieved: 2026-06-05
+
+Professor: Geena Kim
+Department: Computer Science
+School: University of Colorado - Boulder
+Overall Rating: 1.0/5.0
+Difficulty: 3.8/5.0
+Would Take Again: 0.0%
+Number of Ratings: 8
+RMP URL: https://www.ratemyprofessors.com/professor/2509139
+
+--- Reviews ---
+
+[2025-11-24 | DTSA5509] (Review ID: geena-kim::r1)
+Quality: 1.0, Difficulty: 5.0
+Tags: ['Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+Painful, Nothing but Kaggle competitions that are 5+ years old and no longer work. This instructor really sucks.
+
+[2025-01-18 | DTSA5509] (Review ID: geena-kim::r2)
+Quality: 1.0, Difficulty: 5.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+This is an awful course. Extremely hard. Not for beginners. Stay away from it !!!
+
+[2024-01-25 | DTSA5509] (Review ID: geena-kim::r3)
+Quality: 1.0, Difficulty: 4.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+Dr. Kim's lectures are too short and only cover topics at a high level of understanding. At no point, did I feel that I understood the topic better after watching a lecture. It's unfortunate that she is teaching an important and complex topic like Machine Learning.
+
+[2023-11-05 | DTSA5509] (Review ID: geena-kim::r4)
+Quality: 1.0, Difficulty: 1.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+Her introduction to machine learning course is one of the worst classes that I have ever taken. The lectures are rushed and the topics are not discussed in detail. If you take her class, be prepared to spend hours reading outside resources and viewing online tutorials.
+
+[2022-10-04 | DTSA5509] (Review ID: geena-kim::r5)
+Quality: 1.0, Difficulty: 4.0
+Tags: ['Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+The lecture was poorly teach, it didn't dive deep into the topic, the video basically useless.
+
+[2022-09-11 | DTSA5509] (Review ID: geena-kim::r6)
+Quality: 1.0, Difficulty: 4.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+This course is poorly taught and doesn't really explain the concepts clearly. It took a lot of extra work to find material online to help me understand the course material.
+
+[2022-01-21 | DTSA5509] (Review ID: geena-kim::r7)
+Quality: 1.0, Difficulty: 4.0
+Tags: []
+Thumbs Up: 1, Thumbs Down: 0
+The professor doesn't really explain anything about the topic but rather reiterates what's already written in the textbook and further complicates things by mentioning things that aren't quite relevant to the core ideas. If you already know what's being taught maybe you'll have an okay time but then why would you take the course if that's the case.
+
+[2019-09-11 | CSCI1300] (Review ID: geena-kim::r8)
+Quality: 1.0, Difficulty: 3.0
+Tags: []
+Thumbs Up: 1, Thumbs Down: 0
+I took this course online. The prof was awful. Homework wasn't graded for weeks (Week 4 homework wasn't graded until week 10). She kept telling us to be patient, that excuse wouldn't have worked for me. She basically let the class run without much interaction with students (discussion board) and practically no teaching (two helpful posts).

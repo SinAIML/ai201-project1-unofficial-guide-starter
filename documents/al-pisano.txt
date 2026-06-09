@@ -1,0 +1,308 @@
+Source: RateMyProfessors
+Doc ID: al-pisano
+Retrieved: 2026-06-05
+
+Professor: Al  Pisano
+Department: Computer Science
+School: University of Colorado - Boulder
+Overall Rating: 1.8/5.0
+Difficulty: 2.6/5.0
+Would Take Again: 14.2857%
+Number of Ratings: 49
+RMP URL: https://www.ratemyprofessors.com/professor/2853146
+
+--- Reviews ---
+
+[2026-04-22 | CSCI-1000] (Review ID: al-pisano::r1)
+Quality: 1.0, Difficulty: 1.0
+Tags: ['Participation matters', 'So many papers']
+Thumbs Up: 0, Thumbs Down: 0
+It isn't that Al is a bad professor, but he truly feels like I am dosing on copium every time I enter this class. I stopped taking this class serious when he said all of his assignments are AI-generated, and you are required to write at least a page a week about your experience and growth in this course, and then he does not read it. Avoid Al.
+
+[2026-04-22 | CSCI-1000] (Review ID: al-pisano::r2)
+Quality: 1.0, Difficulty: 1.0
+Tags: ['Get ready to read', 'So many papers']
+Thumbs Up: 0, Thumbs Down: 0
+Al does not seem like a bad guy. He "cares", but not in regard to how he treats you. Nearly every assignment teaching me critical "life lessons" were all AI generated, and we were even asked to make an AI avatar to introduce ourselves for our PERSONAL PORTFOLIO. Again, Al is not a bad guy. But he is not a professor. Avoid at any and all costs.
+
+[2026-04-19 | CSCI-1000] (Review ID: al-pisano::r3)
+Quality: 2.0, Difficulty: 1.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+For a one credit class, he has us doing way more than needed. All of his assignments are also made by ai and is very obvious and all of it is just busy work.
+
+[2026-04-05 | CSCI-1000] (Review ID: al-pisano::r4)
+Quality: 1.0, Difficulty: 5.0
+Tags: ['Get ready to read', 'Participation matters', 'Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+The worst professor I've ever had, period. Every assignment is AI generated. EVERY ASSIGNMENT. Every lecture teaches nothing. I didn't even take CSCI1000, but I know that class can't be much better. The extent of his understanding boils down to "I'm sure the AI can teach you." If you have the ability to critically think AVOID AT ALL COSTS.
+
+[2026-02-25 | BUSM2011] (Review ID: al-pisano::r5)
+Quality: 1.0, Difficulty: 4.0
+Tags: ['Tough grader', 'Participation matters', 'Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+I've had Al Pisano 3 times, and in every class he's an overconfident presence and spends more time talking about his "book" and all the "C suite executives" he's coached. He talks down to students, and hasn't taught me anything noteworthy in the 40+ lectures I've had from him. It's unbelievable CU keeps him around.
+
+[2025-12-05 | CSCI-1000] (Review ID: al-pisano::r6)
+Quality: 2.0, Difficulty: 2.0
+Tags: ['Participation matters', 'Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+Professor Al Pisano feels like a showman. It doesn't feel like he actually knows much and mostly spends his time repeating the same points he has for years. It wasn't the worst course I've ever taken, but I did not enjoy it and hope to never take anything with him again.(He had his good moments, but I was too biased against him by the end to enjoy)
+
+[2025-10-16 | CSCI-1000] (Review ID: al-pisano::r7)
+Quality: 4.0, Difficulty: 1.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+I'm a junior now and looking back, I'm so grateful that Dr. P introduced us to LinkedIn, networking, and intro to GitHub. As a freshman, I didn't see the value of this class, but the most important thing that this class does is that it lets you practice networking. Other than that, the class is just busy work, but networking truly matters.
+
+[2025-03-13 | ORGN-4020] (Review ID: al-pisano::r8)
+Quality: 1.0, Difficulty: 5.0
+Tags: ['Tough grader']
+Thumbs Up: 0, Thumbs Down: 0
+This is pretty much a joke. Class is entirely made by ChatGPT and everyone in the class is constantly lost because of the lack of a true leader in the room. He's a very nice person, but this class should absolutely and entirely be taught by someone else. Avoid at all costs.
+
+[2025-01-13 | CSCI-1000] (Review ID: al-pisano::r9)
+Quality: 1.0, Difficulty: 5.0
+Tags: ['Participation matters', 'Lots of homework', 'So many papers']
+Thumbs Up: 1, Thumbs Down: 0
+terrible professor, terrible experience, 0/10 would not recommend.
+
+[2025-01-03 | CSCI-1000] (Review ID: al-pisano::r10)
+Quality: 1.0, Difficulty: 2.0
+Tags: ['Participation matters']
+Thumbs Up: 1, Thumbs Down: 0
+This 1 credit class probably has the most busy work in all of CU. Dr. Pisano himself is a good person (ask him to turn in late), but he taught nothing during lectures. It was all "learn and do LinkedIn and GitHub on your own." I know this is a required comp sci class, but those hours of writing meaningless paragraphs every week still tick me off.
+
+[2024-12-27 | ORGN-4020] (Review ID: al-pisano::r11)
+Quality: 1.0, Difficulty: 4.0
+Tags: ['Tough grader', 'Lots of homework']
+Thumbs Up: 1, Thumbs Down: 0
+This guy is absolutely obsessed with AI. His class is about AI, the assignments are created using AI, I imagine not all grading was done with AI. In fact I would not be surprised if Al himself is run by AI. The class was a dystopian hellscape. So many reflection assignments that I was reflecting on what I learned from reflecting on my reflections.
+
+[2024-12-20 | CSCI-1000] (Review ID: al-pisano::r12)
+Quality: 4.0, Difficulty: 4.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+Great Professor, loved the class and thought that we learned a lot of useful skills! Not sure why Dr. P gets such low ratings... There was a lot of unnecessary work outside of class, but things like creating a LinkedIn account and learning about GitHub are some things I am super grateful to have learned in this class.
+
+[2024-12-18 | CSCI-1000] (Review ID: al-pisano::r13)
+Quality: 1.0, Difficulty: 3.0
+Tags: ['Participation matters', 'Group projects', 'Lots of homework']
+Thumbs Up: 1, Thumbs Down: 0
+This was the worst experience I've had with any class. The professor taught us nothing, required attendance only to not teach us anything, and somehow gave us more HW than my math and physics class combined, all for 1 credit. Every single assignment was a time-waster. Don't miss deadlines because if you miss even one your grade will drop a letter.
+
+[2024-12-17 | CSCI-1000] (Review ID: al-pisano::r14)
+Quality: 1.0, Difficulty: 2.0
+Tags: ['Participation matters', 'Group projects', 'Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+Al's class is just constant busy work with little to no real benefit. The assignments are half-baked and menial. He is often unresponsive and difficult to communicate with. Also, don't miss lecture because you will lose all your points for that week and he often verbally changes policies in class and never formally communicates them online.
+
+[2024-12-17 | CSCI-1000] (Review ID: al-pisano::r15)
+Quality: 1.0, Difficulty: 3.0
+Tags: ['Group projects', 'Lots of homework']
+Thumbs Up: 2, Thumbs Down: 0
+Mandatory class and mandatory attendance in which you need photo proof. His assignments are incredibly vague and it is obvious how little care he puts into the class. Assignments consist of a lot of busy work and useless writing. He doesn't teach anything and is of no help when you have questions. His class was a complete waste of my time.
+
+[2024-12-17 | CSCI-1000] (Review ID: al-pisano::r16)
+Quality: 1.0, Difficulty: 5.0
+Tags: ['Tough grader', 'Lots of homework', 'So many papers']
+Thumbs Up: 1, Thumbs Down: 0
+Useless class taught by a guy who has never did anything in computer science his whole life. Doesn't know what he's talking about most of the time. Doesn't teach anything at all but gives lots of useless homeworks. This class should be separated to events outside of class (like linkedin walkthrough, github commands etc).
+
+[2024-12-14 | ORGN-4020] (Review ID: al-pisano::r17)
+Quality: 1.0, Difficulty: 2.0
+Tags: ['Tough grader']
+Thumbs Up: 0, Thumbs Down: 0
+Nice guy, but a tough grader and very hard to reach. He often deducts significant points from assignments with vague feedback like "looking for more depth." If you have a concern and try emailing him, be prepared to follow up multiple times&#8212;if he even responds at all.
+
+[2024-12-10 | ORGN-4020] (Review ID: al-pisano::r18)
+Quality: 2.0, Difficulty: 4.0
+Tags: ['Tough grader', 'Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+He is unaccessible by email. When trying to reach out about assignments that were graded incorrectly, you have to email him four times, and even then he will either not respond or will say he will grade it but won't. He is definitely a nice guy, but grades so hard. All assignments are worth 2 points & he almost never gives good grades for them.
+
+[2024-12-10 | CSCI-1000] (Review ID: al-pisano::r19)
+Quality: 2.0, Difficulty: 1.0
+Tags: ['Group projects', 'Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+This class was easy just so boring and meaningless. Sadly, you have to take it. Get ready for busy work and a professor who is never clear about what he wants. I emailed him asking for clarification and said I couldn't go to office hours. He responded telling me to go to office hours...
+
+[2024-12-09 | CSCI-1000] (Review ID: al-pisano::r20)
+Quality: 1.0, Difficulty: 3.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+CS as a field of work and study was just a waste of time. The professor does not teach, he has no expectations and puts in no work himself. All that is expected is that you do 3-6 busy work activities each week including posting on Linked In or doing a git hub project with no instruction or criteria. Not really sure how it is even a class at CU.
+
+[2024-12-09 | CSCI-1000] (Review ID: al-pisano::r21)
+Quality: 1.0, Difficulty: 3.0
+Tags: ['Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+This class is a waste of time, filled with pointless busywork. Al Pisano hides behind guest speakers because he can't teach anything relevant or useful in computer science. The course is frustrating and unproductive, and he protects his own image that he so adores by gaslighting students into believing their dissatisfaction is their own fault.
+
+[2024-12-04 | CSCI-1000] (Review ID: al-pisano::r22)
+Quality: 1.0, Difficulty: 3.0
+Tags: ['Participation matters', 'Group projects', 'Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+It's impressive how he can make every assignment so vague while also stomping out any loophole to force you to do the maximum amount of work possible. This professor is a joke. He flaunts his doctorate and strokes his ego, then shows how little he actually knows by making people who do know what they're doing lecture for him.
+
+[2024-11-30 | BUSM2011] (Review ID: al-pisano::r23)
+Quality: 1.0, Difficulty: 4.0
+Tags: ['Group projects', 'Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+I had busm 3031 and 2011 with Al he gives so much busy work. Spent classes playing theater games and throwing with our non dominant hands... huge waste of time. He grades hard for no reason and doesn't give meaningful feedback that sets students up for success on later assignments. He seems nice but not a good or interesting teacher.
+
+[2024-10-16 | CSCI-1000] (Review ID: al-pisano::r24)
+Quality: 1.0, Difficulty: 2.0
+Tags: ['Participation matters']
+Thumbs Up: 0, Thumbs Down: 0
+Truly a waste of time and money, unfortunately you have to take it. This is a LinkedIn tutorial disguised class with a load of useless busy work on the side taught by a man who doesn't want you to know that he's never done a day of computer science in his life.
+
+[2024-10-07 | CSCI-1000] (Review ID: al-pisano::r25)
+Quality: 1.0, Difficulty: 1.0
+Tags: ['Participation matters', 'Group projects', 'Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+Busy work. Probably more busy work in this single credit hour than APPM Calc. Nothing worth doing in the class. Would've given 0 if I could.
+
+[2024-09-30 | CSCI-1000] (Review ID: al-pisano::r26)
+Quality: 1.0, Difficulty: 1.0
+Tags: ['Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+All lil bro does is give useless lectures and assign more busywork than a four credit hour class.
+
+[2024-09-16 | CSCI-1000] (Review ID: al-pisano::r27)
+Quality: 1.0, Difficulty: 3.0
+Tags: ['Participation matters', 'Group projects', 'Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+A single credit hour class, but is an absolute professional at making it feel like the course is for 5 credits. Every week requires close to 500 words in work, an interview with a different student, 2 LinkedIn connections, a Github project, a guest speaker with notes, and an independent/group project. Absolutely horrid and would never take again.
+
+[2024-09-05 | CSCI-1000] (Review ID: al-pisano::r28)
+Quality: 4.0, Difficulty: 1.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+Nice guy but i aint paying all this money for busy work jus sayin
+
+[2024-08-19 | CSCI-1000] (Review ID: al-pisano::r29)
+Quality: 1.0, Difficulty: 2.0
+Tags: ['Graded by few things']
+Thumbs Up: 0, Thumbs Down: 0
+(DTSA-5302 MS-DS) Dr. Pisano cares more about appearing competent than saying anything meaningful. Assignments are shallow and irrelevant. I say confidently that I learned next to zero in this course which is a shame. The other courses I took in this module are all well-taught and I gained a lot from them. Easy grade, but you won't learn anything.
+
+[2024-05-03 | BUSM2011] (Review ID: al-pisano::r30)
+Quality: 1.0, Difficulty: 3.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+Was very unclear about this final project that accounted for most of our grade and did not explain how to do it well. This was how most things were, instructions were not clear and he did not like to get back to students.
+
+[2024-04-25 | BUSM2011] (Review ID: al-pisano::r31)
+Quality: 5.0, Difficulty: 2.0
+Tags: ['Hilarious', 'Respected', 'Online Savvy']
+Thumbs Up: 0, Thumbs Down: 0
+Solid teacher. One of the best I have had for the MODs at Leeds. Provides access to study materials on tests and overall helps me learn concepts better than most courses. Solid Course.
+
+[2024-03-20 | BUSM2011] (Review ID: al-pisano::r32)
+Quality: 5.0, Difficulty: 3.0
+Tags: ['Group projects', 'Clear grading criteria', 'Lecture heavy']
+Thumbs Up: 0, Thumbs Down: 0
+I honestly thought Al was a good professor and was very accessible outside of class if you had a question. He tries to make his lectures interesting and important. As long as you show up to class and take notes, you will do fine on the exams/quizzes.
+
+[2023-12-19 | CSCI-1000] (Review ID: al-pisano::r33)
+Quality: 1.0, Difficulty: 1.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+Pointless, quasi-mandatory class entirely filled with busy work. A few of the guest lecturers were interesting, but the weekly assignments were incredibly tedious and repetitive.
+
+[2023-12-15 | CSCI-1000] (Review ID: al-pisano::r34)
+Quality: 4.0, Difficulty: 1.0
+Tags: ['Group projects', 'Graded by few things', 'Accessible outside class']
+Thumbs Up: 0, Thumbs Down: 0
+Good professor but the class was kind of boring and tedious.
+
+[2023-12-13 | BUSM2011] (Review ID: al-pisano::r35)
+Quality: 3.0, Difficulty: 1.0
+Tags: ['Group projects']
+Thumbs Up: 0, Thumbs Down: 0
+The entire 8 weeks consisted of creating a slideshow on how to be successful as a student. Nice guy but definitely needs more structure to the course.
+
+[2023-12-12 | CSCI-1000] (Review ID: al-pisano::r36)
+Quality: 4.0, Difficulty: 1.0
+Tags: ['Group projects', 'Clear grading criteria', 'Accessible outside class']
+Thumbs Up: 0, Thumbs Down: 0
+I had more a problem with the course since it was required and felt pretty useless than I did with Pisano. He was a pretty decent professor and was very accessible during office hours. There is not a lot of work in this class, and it mainly is just busy work but it only took 30 minutes a week.
+
+[2023-12-09 | CSCI-1000] (Review ID: al-pisano::r37)
+Quality: 2.0, Difficulty: 2.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+bad.
+
+[2023-12-04 | CSCI-1000] (Review ID: al-pisano::r38)
+Quality: 3.0, Difficulty: 2.0
+Tags: ['Participation matters', 'Clear grading criteria', 'Hilarious']
+Thumbs Up: 0, Thumbs Down: 0
+Since the dawn of institutionalized education, I dare say, there may never have been a professor as grossly disdained as the Mr. Pisano. The infamous neoteric neoteric, many an anecdote I have heard of him and almost all have been a negative accounts. With the quantity of frivolous tasks, noble are the scholars who dare to pursue CSCI here. GBWY
+
+[2023-12-04 | CSCI-1000] (Review ID: al-pisano::r39)
+Quality: 5.0, Difficulty: 1.0
+Tags: ['Clear grading criteria', 'Lots of homework', 'Caring']
+Thumbs Up: 2, Thumbs Down: 0
+Every reviewer here seems to be the most over dramatic crybaby I've ever heard. I am not a good student, but this class is easyyy, yes there are two hours of the easiest busy work hw of your life per week, but you can fs get lots of knowledge of the field of computer science, the guest speakers were very interesting, and Al is veryyy graceful w hw.
+
+[2023-12-02 | CSCI-1000] (Review ID: al-pisano::r40)
+Quality: 1.0, Difficulty: 4.0
+Tags: ['Hilarious', 'Caring', 'Respected']
+Thumbs Up: 0, Thumbs Down: 0
+The first day, Al Pisano said that if we didn't like his class, he failed as a teacher. He failed as a teacher. Class is entirely busywork and is more work than some of my 3 credit hour classes. He loves listening to himself talk also loves to police his students. I'm pretty sure the one positive review of Al Pisano is just him reviewing himself.
+
+[2023-12-02 | CSCI-1000] (Review ID: al-pisano::r41)
+Quality: 1.0, Difficulty: 3.0
+Tags: ['Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+Taking this class is like a stand-up comedy show where the main act is the professor, and the punchline is the mountain of irrelevant homework. It's like we're on a never-ending tour of the professor's ego, with pit stops for guest speakers who specialize in random topics. I signed up for an education, but turns out I just joined a comedy club.
+
+[2023-12-02 | CSCI-1000] (Review ID: al-pisano::r42)
+Quality: 1.0, Difficulty: 3.0
+Tags: ['Inspirational', 'Hilarious']
+Thumbs Up: 1, Thumbs Down: 0
+It's so hilarious how bad his teaching is. He could become a comedian in his next career because of how funny his teaching is for real. He never actually teaches anything and only has guest speakers talk, which is why he probably needs them. He's so inspirational that he inspires me to become someone not like him.
+
+[2023-11-28 | CSCI-1000] (Review ID: al-pisano::r43)
+Quality: 1.0, Difficulty: 5.0
+Tags: ['Participation matters', 'Group projects', 'Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+Horrible class with a bunch of useless busy work. Do not take this class if you have any way to get out of it. It is torture and a waste of time.
+
+[2023-11-12 | CSCI-1000] (Review ID: al-pisano::r44)
+Quality: 1.0, Difficulty: 3.0
+Tags: ['Participation matters', 'Group projects', 'Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+This class is so bad that I've been planning on writing a 1 star review for a very long time. There is so much busy work each week and it's extremely frustrating to have to do. This class is useless, irrelevant, and a huge waste of time.
+
+[2023-11-07 | CSCI-1000] (Review ID: al-pisano::r45)
+Quality: 1.0, Difficulty: 4.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+An incredibly frustrating teacher with seemingly no understanding of what he was teaching. He has a love for unnecessary, off-topic work, and it felt as though he was entirely disconnected with what the purpose of his course is. Its hard to overstate how unenjoyable this class is, and how much effort you have to put in for a single credit course.
+
+[2023-06-13 | BUSM2011] (Review ID: al-pisano::r46)
+Quality: 1.0, Difficulty: 1.0
+Tags: ['Group projects', 'Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+He did not plan out this course at all before teaching it. You could tell he was just making things up as we went. I didn't learn anything during this class and it was honestly just a waste of time.
+
+[2023-05-04 | BUSM2011] (Review ID: al-pisano::r47)
+Quality: 4.0, Difficulty: 2.0
+Tags: ['Group projects', 'Hilarious', 'Caring']
+Thumbs Up: 0, Thumbs Down: 0
+For this class Professor P had a unique teaching approach. We did a group project with very few guidelines. He wanted students to have autonomy in deciding how to do things. He didn't teach much in this class, more so facilitated group work and exercises. His approach was different than usual, but the assignments he gave were conducive to learning.
+
+[2023-05-01 | CSCI-1000] (Review ID: al-pisano::r48)
+Quality: 1.0, Difficulty: 5.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+For a 1 credit hour class, you would think there would be less work than all of my other classes. However, I had more work in this class than calc 2 and physics combined. It was poorly run and very stressful. Additionally, the professor was bad at communicating and putting in grades leading a frantic rush to fix grading errors in the final weeks
+
+[2023-04-14 | CSCI-1000] (Review ID: al-pisano::r49)
+Quality: 1.0, Difficulty: 3.0
+Tags: ['Lots of homework']
+Thumbs Up: 1, Thumbs Down: 0
+This class was a required one credit hour class for me. You wouldn't be able to tell based in the amount of work we received. He had no self awareness for the amount of work he was giving. It was extremely hard to get in contact with him and he didn't ever respond to his emails. He also didn't post grades till the very end of the semester.

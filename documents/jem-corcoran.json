@@ -1,0 +1,198 @@
+{
+  "doc_id": "jem-corcoran",
+  "source": "RateMyProfessors",
+  "retrieved_at": "2026-06-05",
+  "professor": {
+    "queried_name": "Jem Corcoran",
+    "name": "Jem Corcoran",
+    "rmp_id": "715635",
+    "department": "Applied Mathematics",
+    "school": "University of Colorado - Boulder",
+    "overall_rating": 4.8,
+    "num_ratings": 15,
+    "percent_take_again": 100.0,
+    "level_of_difficulty": 3.3,
+    "rmp_url": "https://www.ratemyprofessors.com/professor/715635"
+  },
+  "num_reviews": 15,
+  "text": "Professor Jem Corcoran teaches in the Applied Mathematics department at University of Colorado - Boulder. Overall rating 4.8/5 from 15 ratings; average difficulty 3.3/5; 100.0% would take again.\n\nReview 1 [APPM4560] (quality=5.0, difficulty=3.0): Genuinely amazing professor... nothing more needs to be said\n\nReview 2 [APPM4560] (quality=5.0, difficulty=3.0): So! Good! One of the best professors I've ever had - if I could take every math class with her for the rest of my life, I would do it in a heartbeat.\n\nReview 3 [APPM4520] (quality=5.0, difficulty=5.0): Jem is one of the best professor I ever met at CU. Her lecture is heavy but fun. She really care students in her class and she is super friendly to people not only her students. She tries her best to help the students understand the material in class and in her office hours. Take her class and you will recieve the best experience learning math.\n\nReview 4 [APPM4520] (quality=5.0, difficulty=3.0): The best professor I have met.\n\nReview 5 [APPM4520] (quality=5.0, difficulty=4.0): I am graduating in 2 weeks and I can easily say that Professor Corcoran is hands down the best professor I have had in my college career. On the advice of my roommates, I waited two years to sync my schedule so that I could take her class and I'm so glad that I did. This professor goes above and beyond to make sure everyone is learning. A+!\n\nReview 6 [APPM4520] (quality=4.0, difficulty=4.0): Awesome\n\nReview 7 [APPM4560] (quality=5.0, difficulty=1.0): Very nice, clear and helpful.\n\nReview 8 [APPM4570] (quality=5.0, difficulty=3.0): Jem made statistics fun and interesting!  I didn't have any classes around the same time as this one, but I still found the motivation to attend class every day.  She made the subject clear and simple, lots of pertinent examples.  I wish I could take all my APPM classes with her.\n\nReview 9 [MATH4520] (quality=5.0, difficulty=4.0): She made a pretty boring subject entertaining with effusiveness.  The homework was pretty tough, but not unbearable.  She is a great teacher and you should take her classes if you can.\n\nReview 10 [MATH4520] (quality=5.0, difficulty=3.0): best math class ever\n\nReview 11 [MATH5520] (quality=5.0, difficulty=4.0): Most awesome. I take every class this professor teaches, whether I need it or not!\n\nReview 12 [APPM1360] (quality=5.0, difficulty=3.0): Awesome teacher!\n\nReview 13 [APPM4520] (quality=5.0, difficulty=3.0): No Comments\n\nReview 14 [APPM1360] (quality=4.0, difficulty=4.0): No Comments\n\nReview 15 [APPM1360] (quality=5.0, difficulty=2.0): Best Calc II professor, very clear, very entertaining too.",
+  "reviews": [
+    {
+      "review_id": "jem-corcoran::r1",
+      "date": "2021-10-25",
+      "course": "APPM4560",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Respected",
+        "Accessible outside class",
+        "Amazing lectures"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Genuinely amazing professor... nothing more needs to be said"
+    },
+    {
+      "review_id": "jem-corcoran::r2",
+      "date": "2020-03-31",
+      "course": "APPM4560",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Respected",
+        "Amazing lectures",
+        "Caring"
+      ],
+      "thumbs_up": 2,
+      "thumbs_down": 0,
+      "comment": "So! Good! One of the best professors I've ever had - if I could take every math class with her for the rest of my life, I would do it in a heartbeat."
+    },
+    {
+      "review_id": "jem-corcoran::r3",
+      "date": "2017-11-13",
+      "course": "APPM4520",
+      "quality": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Respected",
+        "Inspirational",
+        "LECTURE HEAVY"
+      ],
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "comment": "Jem is one of the best professor I ever met at CU. Her lecture is heavy but fun. She really care students in her class and she is super friendly to people not only her students. She tries her best to help the students understand the material in class and in her office hours. Take her class and you will recieve the best experience learning math."
+    },
+    {
+      "review_id": "jem-corcoran::r4",
+      "date": "2016-10-05",
+      "course": "APPM4520",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "thumbs_up": 1,
+      "thumbs_down": 0,
+      "comment": "The best professor I have met."
+    },
+    {
+      "review_id": "jem-corcoran::r5",
+      "date": "2015-11-25",
+      "course": "APPM4520",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "I am graduating in 2 weeks and I can easily say that Professor Corcoran is hands down the best professor I have had in my college career. On the advice of my roommates, I waited two years to sync my schedule so that I could take her class and I'm so glad that I did. This professor goes above and beyond to make sure everyone is learning. A+!"
+    },
+    {
+      "review_id": "jem-corcoran::r6",
+      "date": "2011-12-28",
+      "course": "APPM4520",
+      "quality": 4.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "thumbs_up": 6,
+      "thumbs_down": 0,
+      "comment": "Awesome"
+    },
+    {
+      "review_id": "jem-corcoran::r7",
+      "date": "2008-09-10",
+      "course": "APPM4560",
+      "quality": 5.0,
+      "difficulty": 1.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Very nice, clear and helpful."
+    },
+    {
+      "review_id": "jem-corcoran::r8",
+      "date": "2008-09-07",
+      "course": "APPM4570",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Jem made statistics fun and interesting!  I didn't have any classes around the same time as this one, but I still found the motivation to attend class every day.  She made the subject clear and simple, lots of pertinent examples.  I wish I could take all my APPM classes with her."
+    },
+    {
+      "review_id": "jem-corcoran::r9",
+      "date": "2008-06-05",
+      "course": "MATH4520",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "She made a pretty boring subject entertaining with effusiveness.  The homework was pretty tough, but not unbearable.  She is a great teacher and you should take her classes if you can."
+    },
+    {
+      "review_id": "jem-corcoran::r10",
+      "date": "2006-02-13",
+      "course": "MATH4520",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "best math class ever"
+    },
+    {
+      "review_id": "jem-corcoran::r11",
+      "date": "2006-01-26",
+      "course": "MATH5520",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Most awesome. I take every class this professor teaches, whether I need it or not!"
+    },
+    {
+      "review_id": "jem-corcoran::r12",
+      "date": "2006-01-25",
+      "course": "APPM1360",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Awesome teacher!"
+    },
+    {
+      "review_id": "jem-corcoran::r13",
+      "date": "2005-12-25",
+      "course": "APPM4520",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "No Comments"
+    },
+    {
+      "review_id": "jem-corcoran::r14",
+      "date": "2005-12-11",
+      "course": "APPM1360",
+      "quality": 4.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "No Comments"
+    },
+    {
+      "review_id": "jem-corcoran::r15",
+      "date": "2005-10-03",
+      "course": "APPM1360",
+      "quality": 5.0,
+      "difficulty": 2.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Best Calc II professor, very clear, very entertaining too."
+    }
+  ]
+}

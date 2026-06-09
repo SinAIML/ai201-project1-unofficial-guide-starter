@@ -1,0 +1,76 @@
+{
+  "doc_id": "ioana-fleming",
+  "source": "RateMyProfessors",
+  "retrieved_at": "2026-06-05",
+  "professor": {
+    "queried_name": "Ioana Fleming",
+    "name": "Ioana Fleming",
+    "rmp_id": "2418518",
+    "department": "Computer Science",
+    "school": "University of Colorado - Boulder",
+    "overall_rating": 3.0,
+    "num_ratings": 4,
+    "percent_take_again": 75.0,
+    "level_of_difficulty": 2.2,
+    "rmp_url": "https://www.ratemyprofessors.com/professor/2418518"
+  },
+  "num_reviews": 4,
+  "text": "Professor Ioana Fleming teaches in the Computer Science department at University of Colorado - Boulder. Overall rating 3.0/5 from 4 ratings; average difficulty 2.2/5; 75.0% would take again.\n\nReview 1 [CSCI1300] (quality=4.0, difficulty=2.0): Prof. Fleming is exceptionally kind and understanding to her students. She gives a ton of extra credit (I ended up with over 100% in the class) and she is genuinely interested in what she teaches. The lectures are pretty much optional, but there are a ton of TA Office Hours if you're struggling. Not a bad class! :D\n\nReview 2 [CSCI1300] (quality=5.0, difficulty=4.0): Professor Fleming is there to help and support you. At first I hated the class but she was always there to support us. The amount of extra credit offered was insane. I ended up with over 100% in the class because of it. She truly does want to help students succeed.\n\nReview 3 [CSCI1300] (quality=1.0, difficulty=1.0): She is horrible lecture and on many occasion not know the answer to the question and has gotten stuck midlecture\n\nReview 4 [CSCI1300] (quality=2.0, difficulty=2.0): The thing is that the lecture itself really is not necessary. It's all pretty basic and you can get by with online (youtube) and tutors. The problem is that the lectures are confusing, and she won't get back to you if you email her. A lot of the time projects aren' graded till last minute, leaving you in a panic.",
+  "reviews": [
+    {
+      "review_id": "ioana-fleming::r1",
+      "date": "2020-12-13",
+      "course": "CSCI1300",
+      "quality": 4.0,
+      "difficulty": 2.0,
+      "tags": [
+        "EXTRA CREDIT",
+        "Clear grading criteria"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Prof. Fleming is exceptionally kind and understanding to her students. She gives a ton of extra credit (I ended up with over 100% in the class) and she is genuinely interested in what she teaches. The lectures are pretty much optional, but there are a ton of TA Office Hours if you're struggling. Not a bad class! :D"
+    },
+    {
+      "review_id": "ioana-fleming::r2",
+      "date": "2020-04-07",
+      "course": "CSCI1300",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Respected",
+        "EXTRA CREDIT"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Professor Fleming is there to help and support you. At first I hated the class but she was always there to support us. The amount of extra credit offered was insane. I ended up with over 100% in the class because of it. She truly does want to help students succeed."
+    },
+    {
+      "review_id": "ioana-fleming::r3",
+      "date": "2019-10-31",
+      "course": "CSCI1300",
+      "quality": 1.0,
+      "difficulty": 1.0,
+      "tags": [
+        "Lots of homework"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "She is horrible lecture and on many occasion not know the answer to the question and has gotten stuck midlecture"
+    },
+    {
+      "review_id": "ioana-fleming::r4",
+      "date": "2019-06-08",
+      "course": "CSCI1300",
+      "quality": 2.0,
+      "difficulty": 2.0,
+      "tags": [
+        "Lots of homework"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "The thing is that the lecture itself really is not necessary. It's all pretty basic and you can get by with online (youtube) and tutors. The problem is that the lectures are confusing, and she won't get back to you if you email her. A lot of the time projects aren' graded till last minute, leaving you in a panic."
+    }
+  ]
+}

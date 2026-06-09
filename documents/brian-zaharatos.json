@@ -1,0 +1,239 @@
+{
+  "doc_id": "brian-zaharatos",
+  "source": "RateMyProfessors",
+  "retrieved_at": "2026-06-05",
+  "professor": {
+    "queried_name": "Brian Zaharatos",
+    "name": "Brian Zaharatos",
+    "rmp_id": "2095791",
+    "department": "Applied Mathematics",
+    "school": "University of Colorado - Boulder",
+    "overall_rating": 4.8,
+    "num_ratings": 16,
+    "percent_take_again": 100.0,
+    "level_of_difficulty": 3.8,
+    "rmp_url": "https://www.ratemyprofessors.com/professor/2095791"
+  },
+  "num_reviews": 16,
+  "text": "Professor Brian Zaharatos teaches in the Applied Mathematics department at University of Colorado - Boulder. Overall rating 4.8/5 from 16 ratings; average difficulty 3.8/5; 100.0% would take again.\n\nReview 1 [STAT5010] (quality=5.0, difficulty=5.0): Very helpful lectures, and feedback for learning. Lectures are interactive with a mix of theory, math-intensive & application-oriented class work that results in long-term information retention. Lectures and homework include references to real-world applications & research papers.\n\nReview 2 [MATH4520] (quality=5.0, difficulty=3.0): I believe the real value of my experience with Professor Zaharatos was his teaching of The Philosophy of Statistics (4700-5700). essentially, this class empowers its students to see through the BS created by statisticians (both accidental and intentional) and potentially come up with a better solution in line with the reality of the situation.\n\nReview 3 [MATH4520] (quality=5.0, difficulty=4.0): Really nice guy. Wants you to do well in his class. His tests are difficult, he wants you to suffer &quot;a little bit&quot;. Everything from lecture/hw is in the book, so attendance is optional. 4 exams per term, weekly hws, etc. Lecture slides are incredibly detailed and helpful. Definitely makes you work for your grade. Is very understanding/caring.\n\nReview 4 [MATH4520] (quality=5.0, difficulty=4.0): Dr. Z is a great professor! He answers all questions very thoroughly and adapted well to the whole pandemic-school thing. Paying attention to lecture is extremely helpful, but he made sure to record the online lectures so that you may go back and watch again. There is a LOT of homework, but it is worth it andsets you up for success on exams.\n\nReview 5 [STAT5010] (quality=4.0, difficulty=5.0): The course is extremely well structured and is intended for maximum imparting of the subject material. Homeworks are extremely hard, I spent almost 2 days a week studying this subject. But, it was worth it. I came out of this course having learnt many statistical tools and techniques. Professor is approachable, but the lectures can be monotonous\n\nReview 6 [APPM3310] (quality=5.0, difficulty=3.0): The best professor I have had at CU. I took his APPM 3310 Matrix Methods Class. Great professor. Very funny and helpful during lectures. He makes you work out the examples in class instead of just having students blindly copy him. Very professional and helpful. Also, he has a very soothing voice.\n\nReview 7 [APPM5720] (quality=5.0, difficulty=4.0): Prof. Zaharatos knows his subject, is passionate about doing ethical and relevant science, and patiently and thoughtfully invests time to ensure his students have what they need to succeed. He is also open to new ideas and cross-disciplinary inspiration, something that is discussed but not practiced in academia nearly enough.\n\nReview 8 [APPM4720] (quality=5.0, difficulty=4.0): DR. Z is a great professor . Super passionate about what he does, always open to students coming in and getting help. Also always comes to class ready clear notes and good intuition on how to teach material. Take his courses!!!\n\nReview 9 [APPM1360] (quality=5.0, difficulty=4.0): Dr. Z was great, hands down would recommend him to anyone. His handwriting is neat, his lectures are structured and organized, and he really takes student input into account. The class is difficult by default but Dr. Z will help make it much easier.\n\nReview 10 [APPM3310] (quality=4.0, difficulty=3.0): Pretty dry and monotone, but very organized, neat lectures, and passionate about what he does. I had to talk to him at the end of the semester about my grade, and was very accommodating and loved to hear that I was trying harder. My girlfriend won't shut up about how pretty his eyes are. Girls all think he's gorgeous\n\nReview 11 [APPM1360] (quality=5.0, difficulty=4.0): Brian is a great teacher!  He writes everything so nicely on that board that it is really easy to understand and follow.  He quickly goes over old material(when needed) as a refresher which is very nice!  Also, he is hilarious and will make you enjoy his class! You want to be in class to take notes, otherwise it can be really hard to catch up.\n\nReview 12 [APPM1360] (quality=5.0, difficulty=4.0): The class is really tough but Dr.Z is really helpful. He will explain things to you in office hours and his lectures are always interesting and entertaining. It's clear he cares about the material and the students and it really comes through. He tells dumb jokes and makes me feel better.\n\nReview 13 [APPM1360] (quality=5.0, difficulty=3.0): Captures the attention of students and provides clear, helpful lectures. Great sense of humor that keeps students engaged.\n\nReview 14 [APPM1360] (quality=5.0, difficulty=3.0): Very clear and good lecturer.  APPM is very hard but he explains things clearly.  Would recommend.\n\nReview 15 [APPM3310] (quality=3.0, difficulty=4.0): Dr. Z. did a good job.\n\nReview 16 [APPM3310] (quality=5.0, difficulty=3.0): He was a cool prof. Always willing to help and was kind of funny during lecture. Great semester",
+  "reviews": [
+    {
+      "review_id": "brian-zaharatos::r1",
+      "date": "2025-01-03",
+      "course": "STAT5010",
+      "quality": 5.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Tough grader",
+        "Get ready to read",
+        "Amazing lectures"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Very helpful lectures, and feedback for learning. Lectures are interactive with a mix of theory, math-intensive & application-oriented class work that results in long-term information retention. Lectures and homework include references to real-world applications & research papers."
+    },
+    {
+      "review_id": "brian-zaharatos::r2",
+      "date": "2023-01-02",
+      "course": "MATH4520",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Get ready to read",
+        "Caring",
+        "Respected"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "I believe the real value of my experience with Professor Zaharatos was his teaching of The Philosophy of Statistics (4700-5700). essentially, this class empowers its students to see through the BS created by statisticians (both accidental and intentional) and potentially come up with a better solution in line with the reality of the situation."
+    },
+    {
+      "review_id": "brian-zaharatos::r3",
+      "date": "2020-12-12",
+      "course": "MATH4520",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Lots of homework",
+        "Get ready to read",
+        "Test heavy"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Really nice guy. Wants you to do well in his class. His tests are difficult, he wants you to suffer &quot;a little bit&quot;. Everything from lecture/hw is in the book, so attendance is optional. 4 exams per term, weekly hws, etc. Lecture slides are incredibly detailed and helpful. Definitely makes you work for your grade. Is very understanding/caring."
+    },
+    {
+      "review_id": "brian-zaharatos::r4",
+      "date": "2020-12-10",
+      "course": "MATH4520",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Lots of homework",
+        "Amazing lectures"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Dr. Z is a great professor! He answers all questions very thoroughly and adapted well to the whole pandemic-school thing. Paying attention to lecture is extremely helpful, but he made sure to record the online lectures so that you may go back and watch again. There is a LOT of homework, but it is worth it andsets you up for success on exams."
+    },
+    {
+      "review_id": "brian-zaharatos::r5",
+      "date": "2020-05-13",
+      "course": "STAT5010",
+      "quality": 4.0,
+      "difficulty": 5.0,
+      "tags": [
+        "Lots of homework",
+        "Get ready to read",
+        "Test heavy"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "The course is extremely well structured and is intended for maximum imparting of the subject material. Homeworks are extremely hard, I spent almost 2 days a week studying this subject. But, it was worth it. I came out of this course having learnt many statistical tools and techniques. Professor is approachable, but the lectures can be monotonous"
+    },
+    {
+      "review_id": "brian-zaharatos::r6",
+      "date": "2018-05-10",
+      "course": "APPM3310",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Respected",
+        "Inspirational",
+        "Caring"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "The best professor I have had at CU. I took his APPM 3310 Matrix Methods Class. Great professor. Very funny and helpful during lectures. He makes you work out the examples in class instead of just having students blindly copy him. Very professional and helpful. Also, he has a very soothing voice."
+    },
+    {
+      "review_id": "brian-zaharatos::r7",
+      "date": "2017-05-22",
+      "course": "APPM5720",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Caring"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Prof. Zaharatos knows his subject, is passionate about doing ethical and relevant science, and patiently and thoughtfully invests time to ensure his students have what they need to succeed. He is also open to new ideas and cross-disciplinary inspiration, something that is discussed but not practiced in academia nearly enough."
+    },
+    {
+      "review_id": "brian-zaharatos::r8",
+      "date": "2017-05-17",
+      "course": "APPM4720",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Gives good feedback",
+        "Skip class? You won't pass.",
+        "Amazing lectures"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "DR. Z is a great professor . Super passionate about what he does, always open to students coming in and getting help. Also always comes to class ready clear notes and good intuition on how to teach material. Take his courses!!!"
+    },
+    {
+      "review_id": "brian-zaharatos::r9",
+      "date": "2016-12-28",
+      "course": "APPM1360",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "Skip class? You won't pass.",
+        "Amazing lectures"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Dr. Z was great, hands down would recommend him to anyone. His handwriting is neat, his lectures are structured and organized, and he really takes student input into account. The class is difficult by default but Dr. Z will help make it much easier."
+    },
+    {
+      "review_id": "brian-zaharatos::r10",
+      "date": "2016-12-22",
+      "course": "APPM3310",
+      "quality": 4.0,
+      "difficulty": 3.0,
+      "tags": [
+        "Gives good feedback",
+        "Inspirational",
+        "ACCESSIBLE OUTSIDE CLASS"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Pretty dry and monotone, but very organized, neat lectures, and passionate about what he does. I had to talk to him at the end of the semester about my grade, and was very accommodating and loved to hear that I was trying harder. My girlfriend won't shut up about how pretty his eyes are. Girls all think he's gorgeous"
+    },
+    {
+      "review_id": "brian-zaharatos::r11",
+      "date": "2016-09-28",
+      "course": "APPM1360",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "tags": [
+        "LOTS OF HOMEWORK",
+        "Hilarious"
+      ],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Brian is a great teacher!  He writes everything so nicely on that board that it is really easy to understand and follow.  He quickly goes over old material(when needed) as a refresher which is very nice!  Also, he is hilarious and will make you enjoy his class! You want to be in class to take notes, otherwise it can be really hard to catch up."
+    },
+    {
+      "review_id": "brian-zaharatos::r12",
+      "date": "2016-03-14",
+      "course": "APPM1360",
+      "quality": 5.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "The class is really tough but Dr.Z is really helpful. He will explain things to you in office hours and his lectures are always interesting and entertaining. It's clear he cares about the material and the students and it really comes through. He tells dumb jokes and makes me feel better."
+    },
+    {
+      "review_id": "brian-zaharatos::r13",
+      "date": "2016-03-01",
+      "course": "APPM1360",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Captures the attention of students and provides clear, helpful lectures. Great sense of humor that keeps students engaged."
+    },
+    {
+      "review_id": "brian-zaharatos::r14",
+      "date": "2016-02-07",
+      "course": "APPM1360",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "Very clear and good lecturer.  APPM is very hard but he explains things clearly.  Would recommend."
+    },
+    {
+      "review_id": "brian-zaharatos::r15",
+      "date": "2015-12-24",
+      "course": "APPM3310",
+      "quality": 3.0,
+      "difficulty": 4.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 1,
+      "comment": "Dr. Z. did a good job."
+    },
+    {
+      "review_id": "brian-zaharatos::r16",
+      "date": "2015-12-22",
+      "course": "APPM3310",
+      "quality": 5.0,
+      "difficulty": 3.0,
+      "tags": [],
+      "thumbs_up": 0,
+      "thumbs_down": 0,
+      "comment": "He was a cool prof. Always willing to help and was kind of funny during lecture. Great semester"
+    }
+  ]
+}

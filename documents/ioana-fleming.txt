@@ -1,0 +1,38 @@
+Source: RateMyProfessors
+Doc ID: ioana-fleming
+Retrieved: 2026-06-05
+
+Professor: Ioana Fleming
+Department: Computer Science
+School: University of Colorado - Boulder
+Overall Rating: 3.0/5.0
+Difficulty: 2.2/5.0
+Would Take Again: 75.0%
+Number of Ratings: 4
+RMP URL: https://www.ratemyprofessors.com/professor/2418518
+
+--- Reviews ---
+
+[2020-12-13 | CSCI1300] (Review ID: ioana-fleming::r1)
+Quality: 4.0, Difficulty: 2.0
+Tags: ['EXTRA CREDIT', 'Clear grading criteria']
+Thumbs Up: 0, Thumbs Down: 0
+Prof. Fleming is exceptionally kind and understanding to her students. She gives a ton of extra credit (I ended up with over 100% in the class) and she is genuinely interested in what she teaches. The lectures are pretty much optional, but there are a ton of TA Office Hours if you're struggling. Not a bad class! :D
+
+[2020-04-07 | CSCI1300] (Review ID: ioana-fleming::r2)
+Quality: 5.0, Difficulty: 4.0
+Tags: ['Gives good feedback', 'Respected', 'EXTRA CREDIT']
+Thumbs Up: 0, Thumbs Down: 0
+Professor Fleming is there to help and support you. At first I hated the class but she was always there to support us. The amount of extra credit offered was insane. I ended up with over 100% in the class because of it. She truly does want to help students succeed.
+
+[2019-10-31 | CSCI1300] (Review ID: ioana-fleming::r3)
+Quality: 1.0, Difficulty: 1.0
+Tags: ['Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+She is horrible lecture and on many occasion not know the answer to the question and has gotten stuck midlecture
+
+[2019-06-08 | CSCI1300] (Review ID: ioana-fleming::r4)
+Quality: 2.0, Difficulty: 2.0
+Tags: ['Lots of homework']
+Thumbs Up: 0, Thumbs Down: 0
+The thing is that the lecture itself really is not necessary. It's all pretty basic and you can get by with online (youtube) and tutors. The problem is that the lectures are confusing, and she won't get back to you if you email her. A lot of the time projects aren' graded till last minute, leaving you in a panic.

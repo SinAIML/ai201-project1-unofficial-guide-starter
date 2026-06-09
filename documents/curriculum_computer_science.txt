@@ -1,0 +1,14 @@
+Source: CU Boulder MS-DS Curriculum — Computer Science
+Doc ID: curriculum_computer_science
+URL: https://www.colorado.edu/program/data-science/campus/curriculum/computer-science
+Retrieved: 2026-06-05
+
+--- Content ---
+
+Core Curriculum: Computer Science
+Core Curriculum: Computer Science
+Click each topic area to learn more about specific courses within the core curriculum.
+CSCI 5502: Data Mining
+Introduces basic data mining concepts and techniques for discovering interesting patterns hidden in large-scale data sets, focusing on issues relating to effectiveness and efficiency. Topics covered include data preprocessing, data warehouse, association, classification, clustering, and mining-specific data types such as time-series, social networks, multimedia, and Web data.
+CSCI 5622: Machine Learning
+Trains students to build computer systems that learn from experience. Includes the three main subfields: supervised learning, reinforcement learning, and unsupervised learning. Emphasizes practical and theoretical understanding of the most widely used algorithms (neural networks, decision trees, support vector machines, Q-learning). Covers connections to data mining and statistical modeling. A strong foundation in probability, statistics, multivariate calculus, and linear algebra is highly recommended.

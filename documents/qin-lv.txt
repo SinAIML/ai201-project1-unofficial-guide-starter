@@ -1,0 +1,108 @@
+Source: RateMyProfessors
+Doc ID: qin-lv
+Retrieved: 2026-06-05
+
+Professor: Qin Lv
+Department: Computer Science
+School: University of Colorado - Boulder
+Overall Rating: 2.0/5.0
+Difficulty: 3.1/5.0
+Would Take Again: 25.0%
+Number of Ratings: 14
+RMP URL: https://www.ratemyprofessors.com/professor/1923840
+
+--- Reviews ---
+
+[2026-01-24 | DTSA-5504] (Review ID: qin-lv::r1)
+Quality: 1.0, Difficulty: 3.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+Almost fully incomprehensible. Cannot understand what she is saying, every other word is a gibberish filler word like "okay" or "um" or "apparently" or "kind of like". Not skilled at conveying concepts - does not flesh things out or give examples of how to execute things. Waste of students time and money which is extremely frustrating.
+
+[2026-01-12 | CSCI4502] (Review ID: qin-lv::r2)
+Quality: 1.0, Difficulty: 4.0
+Tags: ['Group projects', 'Graded by few things']
+Thumbs Up: 0, Thumbs Down: 0
+Worst admin I've seen. HW and project checkpoints are designed to given student feedback but are released after you need them. They never released grading rubric results. So it's like playing darts for your grade. They never released grading criteria and until 2 weeks before capstone was due. I still don't know what my project was graded at.
+
+[2025-12-21 | CSCI4502] (Review ID: qin-lv::r3)
+Quality: 2.0, Difficulty: 2.0
+Tags: ['Group projects']
+Thumbs Up: 0, Thumbs Down: 0
+Class felt like a mix of Advanced Data Science and Machine Learning (CSCI4022 and CSCI4622). Homework and exams would take a long time to grade with very little feedback, and I had no idea what my grade was near the end of the year due to how they handled canvas. 
+
+The semester project is nifty though (if you have an idea you want to pursue).
+
+[2025-12-19 | CSCI5000] (Review ID: qin-lv::r4)
+Quality: 5.0, Difficulty: 1.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+This was a 1 CH course, but her lectures were helpful and informative!
+
+[2025-12-05 | CSCI4502] (Review ID: qin-lv::r5)
+Quality: 1.0, Difficulty: 4.0
+Tags: ['Group projects']
+Thumbs Up: 0, Thumbs Down: 0
+Professors lectures are basically useless. The course project is a huge part of your grade and you are given no rubric or direction, just told to find a data set and give insights about it. I would not recommend taking this course.
+
+[2025-10-28 | CSCI4502] (Review ID: qin-lv::r6)
+Quality: 1.0, Difficulty: 3.0
+Tags: ['Tough grader', 'Graded by few things']
+Thumbs Up: 0, Thumbs Down: 0
+Do not recommend this professor at all! Lectures are packed with content (most of which is irrelevant for the assignments), the grading criteria are very confusing, and most of your grade is based on a group project throughout the semester. The only upside is that there is only one exam, the rest of your grade comes from the project and homework.
+
+[2025-10-16 | CSCI4502] (Review ID: qin-lv::r7)
+Quality: 3.0, Difficulty: 2.0
+Tags: ['Group projects']
+Thumbs Up: 0, Thumbs Down: 0
+Class systems suck but grading is scaled to students well.
+
+Class is moderate work to what I've taken, but the content flow can be confusing. Undergrad & grad students together. Ask good questions, be proactive and you'll be fine.
+
+Content flow: 
+1. Lots of statistics & mathematical models
+2. Approaches to analyzing data
+3. Group project ramps up
+
+[2024-12-12 | CSCI4502] (Review ID: qin-lv::r8)
+Quality: 1.0, Difficulty: 4.0
+Tags: ['Group projects', 'Graded by few things']
+Thumbs Up: 0, Thumbs Down: 0
+It is currently finals week and I still don't know what my grade is in the class. The midterm was taken over 2.5 months ago and still haven't gotten a grade back for it. AT A MINIMUM, you need to take data science before taking this course. BEWARE!
+
+[2024-12-06 | CSCI4502] (Review ID: qin-lv::r9)
+Quality: 1.0, Difficulty: 4.0
+Tags: ['Tough grader', 'Group projects', 'Graded by few things']
+Thumbs Up: 0, Thumbs Down: 0
+Maybe this class is fine if you're a grad student, but don't take it as an undergrad, especially if you haven't taken an advanced stats class. The lectures are hard to follow and the grading criteria for homework and even the final project are super unclear.
+
+[2024-10-29 | CSCI4502] (Review ID: qin-lv::r10)
+Quality: 1.0, Difficulty: 5.0
+Tags: ['Tough grader', 'Graded by few things']
+Thumbs Up: 0, Thumbs Down: 0
+Had no clue what was going on the entire class. The professor would not explain anything beyond "here is something you need to know." Only prereq for the class is data structures, but the prof started talking about using graduate-level mathematics for sorting data. Catered toward grad students and didn't tell the class until after the drop deadline
+
+[2023-12-17 | CS4402] (Review ID: qin-lv::r11)
+Quality: 2.0, Difficulty: 3.0
+Tags: ['Online Savvy']
+Thumbs Up: 0, Thumbs Down: 0
+The bad presentation slides consistently utilize the 'Text with Bullet Points' method. 
+Additionally, the speaker has peculiar speaking habits, frequently ending each sentence with 'right,' causing confusion
+
+[2020-11-02 | CS4402] (Review ID: qin-lv::r12)
+Quality: 4.0, Difficulty: 3.0
+Tags: ['Caring']
+Thumbs Up: 0, Thumbs Down: 0
+I liked her lectures. Pandemic wise, Prof is very organized and makes sure to cover topics in class that you can expect to see in assignments and quizzes/exams.
+
+[2015-11-17 | CSCI3104] (Review ID: qin-lv::r13)
+Quality: 1.0, Difficulty: 3.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+If you can go to class and read the book do. She is clear as mud but every once in a while she will say something useful
+
+[2014-10-06 | 3104] (Review ID: qin-lv::r14)
+Quality: 2.0, Difficulty: 2.0
+Tags: []
+Thumbs Up: 0, Thumbs Down: 0
+Her lectures are a little hard to follow, she likes to move fast. However, she really cares that you're understanding the material and is more than willing to help as long as you clarify what you need help with. She's very nice. Homeworks are tough, but they prepare you very well for the tests.

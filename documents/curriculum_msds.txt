@@ -1,0 +1,44 @@
+Source: CU Boulder MS-DS Curriculum Overview
+Doc ID: curriculum_msds
+URL: https://www.colorado.edu/program/data-science/campus/curriculum
+Retrieved: 2026-06-05
+
+--- Content ---
+
+Curriculum
+Curriculum
+The on-campus data science master's degree seeks to shape tomorrow’s leaders by providing learners with the skills, competencies, and knowledge necessary to fuel creative problem-solving, adaptability, and the capability to communicate effectively across diverse organizations.
+Courses
+The MS-DS is a non-thesis degree that requires 30 credit hours of coursework. You must complete 21 credits of core coursework in statistics, computer science, and general core concepts as well as 9 credits of elective coursework.
+Bridge Courses (Up to 7 credits)
+Students in the
+Bridge to Data Science Pathway
+may be required to complete one or more of the following courses (up to 7 credits). Courses should be taken in the first year and are subject to Graduate School grade and cumulative GPA standards. Up to 3 credit hours of bridge courses which meet applicable standards can count toward the degree in the electives category.
+DTSC 5003 Programming for Data Science  - Python for Data Science
+INFO 5651 Fundamental Concepts in Data Science
+INFO 5652 Statistical Programming in R
+Core Courses (21 credits)
+DTSC 5301 Data Science as a Field (1 credit)
+DTSC 5302 Ethical Issues in Data Science (1 credit)
+DTSC 5303 Cybersecurity for Data Science (1 credit)
+STAT 5000 Statistical Methods and Applications 1 (3 credit)
+STAT 5010 Statistical Methods and Applications 2 (3 credit)
+CSCI 5502 Data Mining (3 credit)
+CSCI 5612
+Machine Learning for Data Science
+(3 credit)
+Two of the following
+additional core courses
+:
+STAT 5600 Methods in Statistical Learning (3 credit)
+DTSC 5501 Data Structures and Algorithms (3 credit)
+*CSCI 5253 Datacenter Scale Computing (3 credit)
+*ATLS 5214 Big Data Architecture (3 credit)
+INFO 5602 Information Visualization (3 credit)
+CSCI 5454 Design and Analysis of Algorithms (3 credit)
+Note:
+Only one course between ATLS 5214 and CSCI 5253 will count towards core requirements.
+Elective Courses (9 credits)
+Choose from 40+
+available courses
+in computer science, information science, geography, business, and more.
